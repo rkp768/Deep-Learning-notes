@@ -7,4 +7,5 @@ A detailed description of the notebooks follows. <br>
 2. <b>SVM_rbf : </b>running the SVM with rbf kernel on a randomly generated dataset and plotting the decision boundary  
 3. <b>random_datasets : </b>a collections of datasets, which were generated randomly with simple mathematical manipulations  
 4. <b>LDA : </b>implementation of Latent Dirichlet Allocation using variational inference algorithm on a sample dataset  
-5. <b>keras_experiments : </b>expreminting with keras backend
+5. <b>keras_experiments : </b>expreminting with keras backend  
+6. <b>ELM : </b>extreme learning machines
