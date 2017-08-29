@@ -1,4 +1,4 @@
-# Deep-Learning-notes
+# Machine Learning Notes
 
 This repo contains my experiments with machine learning/ deep learning algorithms in python.<br>
 Libraries used : NumPy, matplotlib <br>
